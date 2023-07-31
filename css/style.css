@@ -181,7 +181,7 @@ section{
     padding: 7px 10px;
     border-radius: 0 0.5rem 0 0.5rem;
 }
-.service-container{
+.services-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
     grid-gap: 1.5rem;
